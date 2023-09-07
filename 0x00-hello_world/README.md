@@ -6,3 +6,4 @@ File 3-name contains a script that compiles a C file and creates an executable n
 The file 5-printf.c depicts how the printf function can be used to print text
 The file 6-size.c is a c programm that prints the size of various types on the computer it is compiled and run on.
 100-intel is a script that generates the assembly code(intel syntax) of a C code and saves it in an output file
+The file 101-quote.c file contain a c program that prints exactly " and that piece of art is useful" -Dora Korpar, 2015-10-19
