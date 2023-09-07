@@ -4,3 +4,4 @@ In addition to the two files,the file 2-assembler contains a script that generat
 File 3-name contains a script that compiles a C file and creates an executable named cisfun
 4-puts.c is a c program that prints "Programming is like building a multilingual puzzle" using the function puts()
 The file 5-printf.c depicts how the printf function can be used to print text
+The file 6-size.c is a c programm that prints the size of various types on the computer it is compiled and run on.
