@@ -3,3 +3,4 @@ The file 1-compiler is a script that compiles a C file buut does not link it
 In addition to the two files,the file 2-assembler contains a script that generates the assembly code of a C code and saves it in an output file
 File 3-name contains a script that compiles a C file and creates an executable named cisfun
 4-puts.c is a c program that prints "Programming is like building a multilingual puzzle" using the function puts()
+The file 5-printf.c depicts how the printf function can be used to print text
