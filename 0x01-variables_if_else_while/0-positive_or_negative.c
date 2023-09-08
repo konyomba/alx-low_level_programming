@@ -1,10 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include<stdio.h>
+
 /**
  * main - main function
  * Return: 0 always
  */
+
 int main(void)
 {
 	int n;
