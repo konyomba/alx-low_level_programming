@@ -1,1 +1,2 @@
 This program 0-positive_or__negative.c  will assign a random number to the variable n each time it is executed.
+File: 1-last_digit.c the program also assigns random numbers to the variable n and prints the last digit of the variable n using a specified criteria
