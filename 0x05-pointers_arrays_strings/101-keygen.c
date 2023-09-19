@@ -5,7 +5,6 @@
 /**
  * @min - min character accepted
  * @max - max character accepted
- *
  * Return: Always 0
  */
 
