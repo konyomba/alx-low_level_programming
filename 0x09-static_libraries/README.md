@@ -1,0 +1,1 @@
+The repo contains c files and a main.h file which are used to illustrate how static libraries are created.Here we created a static library with the main libmy.a containing all the function prototypes in the main.h files.
