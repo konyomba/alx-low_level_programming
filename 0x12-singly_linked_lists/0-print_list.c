@@ -1,4 +1,6 @@
 #include "lists.h"
+#include <stdlib.h>
+#include <stdio.h>
 
 /**
  * print_list - function that prints elements of a list
@@ -7,7 +9,7 @@
  */
 size_t print_list(const list_t *h)
 {
-	size_t node = 0;
+	size_t nodes = 0;
 
 	while (h)
 	{
